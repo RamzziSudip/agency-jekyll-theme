@@ -1,64 +1,65 @@
-url: https://y7kim.github.io
+url: https://RamzziSudip.github.io/agency-jekyll-theme
 baseurl: /
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
+title: Find Yourself!
+email: sudiproy20yo@gmail.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Sudip Roy
   pic: 1
   position: Lead Designer
   social:
     - title: twitter
-      url: #
+    url: https://www.twitter.com/SudipRo83430078
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    url: https://www.facebook.com/profile.php?id=100009310496231
+    - title: instagram
+    url: https://www.instagram.com/sudip.co/
 
-- name: Larry Parker
+- name: Sudip Roy
   pic: 2
   position: Lead Marketer
   social:
     - title: twitter
-      url: #
+    url: https://www.twitter.com/SudipRo83430078
     - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+    url: https://www.facebook.com/profile.php?id=100009310496231
+    - title: instagram
+    url: https://www.instagram.com/sudip.co/
 
-- name: Diana Petersen
+- name: Sudip Roy
   pic: 3
   position: Lead Developer
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  - title: twitter
+    url: https://www.twitter.com/SudipRo83430078
+  - title: facebook
+    url: https://www.facebook.com/profile.php?id=100009310496231
+  - title: instagram
+    url: https://www.instagram.com/sudip.co/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://www.twitter.com/SudipRo83430078
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: https://www.facebook.com/profile.php?id=100009310496231
+  - title: instagram
+    url: https://www.instagram.com/sudip.co/
   - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: http://bitbucket.org/Gray_Solution
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/RamzziSudip/
+
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: India, Westbengal, Hooghly
+  - line: Chinsurah, Chatterjee Bagan 712102
 
 # Build settings
 markdown: kramdown
